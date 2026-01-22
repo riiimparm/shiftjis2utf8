@@ -33,7 +33,7 @@ sj2u dir --depth 2 --patterns "*.md,*.log" ./test/tmp
 sj2u clear
 ```
 
-## 📝 YAML設定ファイル例
+## YAML設定ファイル例
 
 ### files
 ```yaml
